@@ -47,11 +47,8 @@ Suppose you have a dataset of images with varying aspect ratios, and you want to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Do what you want
 
-## Author
-
-- [Your Name]
 
 Feel free to use, modify, and improve this script as needed for your image processing tasks. If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request.
 
